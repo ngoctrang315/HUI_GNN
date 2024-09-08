@@ -15,10 +15,10 @@ public class MainTestIHUP {
 
 	public static void main(String [] arg) throws IOException{
 		
-		String input = fileToPath("DB_Utility.txt");
-		String output = ".//output.txt";
+		String input = fileToPath("Utility.txt");
+		String output = ".//outpt.txt";
 
-		int min_utility = 30;  //
+		int min_utility = 3000000;  //
 		
 		// Applying the IHUP algorithm
 		AlgoIHUP algo = new AlgoIHUP();

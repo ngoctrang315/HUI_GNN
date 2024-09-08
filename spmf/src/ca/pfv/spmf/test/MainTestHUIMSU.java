@@ -14,10 +14,10 @@ public class MainTestHUIMSU {
 
 	public static void main(String [] arg) throws IOException{
 		
-		String input = fileToPath("DB_Utility.txt");
+		String input = fileToPath("Utility.txt");
 		String output = ".//output.txt";
 
-		int min_utility = 30;  // 
+		int min_utility = 500000;  // 
 		
 		// Applying the HUIMiner algorithm
 		AlgoHUIMSU algo = new AlgoHUIMSU();
