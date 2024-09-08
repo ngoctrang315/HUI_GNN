@@ -1,1 +1,0 @@
-The code in this package is under development.  It is some experimental package
