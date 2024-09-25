@@ -1,0 +1,11 @@
+ProductKey,ProductName,Brand,Color,UnitCostUSD,UnitPriceUSD,SubcategoryKey,Subcategory,CategoryKey,Category
+2,Contoso 512MB MP3 Player E51 Blue,Contoso,Blue,6.62,12.99,101,MP4&MP3,1,Audio
+3,Contoso 1G MP3 Player E100 White,Contoso,White,7.4,14.52,101,MP4&MP3,1,Audio
+4,Contoso 2G MP3 Player E200 Silver,Contoso,Silver,11.0,21.57,101,MP4&MP3,1,Audio
+6,Contoso 2G MP3 Player E200 Black,Contoso,Black,11.0,21.57,101,MP4&MP3,1,Audio
+7,Contoso 2G MP3 Player E200 Blue,Contoso,Blue,11.0,21.57,101,MP4&MP3,1,Audio
+8,Contoso 4G MP3 Player E400 Silver,Contoso,Silver,30.58,59.99,101,MP4&MP3,1,Audio
+9,Contoso 4G MP3 Player E400 Black,Contoso,Black,30.58,59.99,101,MP4&MP3,1,Audio
+14,Contoso 4GB Flash MP3 Player E401 Silver,Contoso,Silver,35.72,77.68,101,MP4&MP3,1,Audio
+34,Contoso 4GB Portable MP3 Player M450 Black,Contoso,Black,48.92,95.95,101,MP4&MP3,1,Audio
+37,Contoso 8GB Clock & Radio MP3 Player X850 Silver,Contoso,Silver,99.14,299.23,101,MP4&MP3,1,Audio
